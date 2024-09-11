@@ -1,3 +1,5 @@
+![logo](https://github.com/Siddharth-Chaudhary1/Siddharth-Chaudhary1/blob/main/webd.gif)
+
 <h1 align="center">Hi 👋, I'm Siddharth Chaudhary</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
